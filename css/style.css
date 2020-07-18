@@ -1,0 +1,13 @@
+.item {
+  display: inline-block;
+  border: 2px solid black;
+  height: 100px !important;
+  width: 100px !important;
+  border-radius: 50%;
+  margin: 15px 0 15px 0px;
+}
+
+.canvas {
+  width: 80%;
+  margin: 100px auto;
+}
